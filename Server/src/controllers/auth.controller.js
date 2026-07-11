@@ -9,7 +9,6 @@ const registerUser = async(req, res)=>{
         console.log(error);
     }
 }
-
 // LOGIN USER
 const loginUser = async(req, res)=>{
     try {
